@@ -6,6 +6,7 @@ let lbryFee = config.get('lbc').paytxfee;
 let phaseFee = config.get('phase').paytxfee;
 let ufoFee = config.get('ufo').paytxfee;
 let phoenixFee = config.get('pxc').paytxfee;
+let flapxFee = config.get('flapx').paytxfee;
 let featherFee = config.get('ftc').paytxfee;
 let verticalFee = config.get('vtl').paytxfee;
 let neblioFee = config.get('nebl').paytxfee;
@@ -26,6 +27,7 @@ exports.tiphelp = {
       '  **Phase (PHASE) Tipper**\n    Transaction Fees: **' + phaseFee + '**\n' +
       '  **Uniform Fiscal Object (UFO) Tipper**\n    Transaction Fees: **' + ufoFee + '**\n' +
       '  **Phoenixcoin (PXC) Tipper**\n    Transaction Fees: **' + phoenixFee + '**\n' +
+      '  **Flapxcoin (Flapx) Tipper**\n    Transaction Fees: **' + flapxFee + '**\n' +
       '  **Feathercoin (FTC) Tipper**\n    Transaction Fees: **' + featherFee + '**\n' +
       '  **Vertical (VTL) Tipper**\n    Transaction Fees: **' + verticalFee + '**\n' +
       '  **Neblio (NEBL) Tipper**\n    Transaction Fees: **' + neblioFee + '**\n' +
