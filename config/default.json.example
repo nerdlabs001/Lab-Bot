@@ -61,6 +61,14 @@
       "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"
     }
   },
+  "flapx": {
+    "paytxfee": .01,
+    "config": {
+      "port": 4240,
+      "user": "username",
+      "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"
+    }
+  },
   "ftc": {
     "paytxfee": .01,
     "config": {
