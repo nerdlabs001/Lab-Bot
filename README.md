@@ -17,6 +17,7 @@ Features:
     - Neblio (NEBL)
     - Xuez (XUEZ)
     - SparksPay (SPK)
+    - Flapxcoin (FLAPX)
 
 
 ## Create a Bot
