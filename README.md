@@ -1,6 +1,6 @@
 # Bot for Discord communities to facilitate crypto coin tipping!
 (This README will be updated along with bot updates)
-
+LAB BETA
 Features:
 - Tipbot for any coin running the bitcoind client.
     - Help message `!tip`.
