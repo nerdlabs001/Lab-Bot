@@ -18,6 +18,7 @@ Features:
     - Xuez (XUEZ)
     - SparksPay (SPK)
     - Flapxcoin (FLAPX)
+    - Elitecoin (1337)
 
 
 ## Create a Bot
