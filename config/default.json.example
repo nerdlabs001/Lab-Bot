@@ -19,7 +19,16 @@
       "port": 3336,
       "user": "username",
       "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"
+      }
+  },
+  "elite": {
+    "paytxfee": 1,
+    "config": {
+      "port": 13372,
+      "user": "username",
+      "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"
     }
+    
   },
   "lbc": {
     "paytxfee": .01,
@@ -89,6 +98,14 @@
     "paytxfee": .01,
     "config": {
       "port": 3342,
+      "user": "username",
+      "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"    
+     }
+  },
+  "ssf": {
+    "paytxfee": 1,
+    "config": {
+      "port": 34218,
       "user": "username",
       "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"
     }
