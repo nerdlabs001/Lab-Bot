@@ -27,8 +27,7 @@
       "port": 13372,
       "user": "username",
       "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"
-    }
-    
+    }  
   },
   "lbc": {
     "paytxfee": .01,
