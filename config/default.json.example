@@ -133,8 +133,8 @@
   // Bot Devs!
   "botDev": "Bot Developer",
   // Channel to log the bots moderation..
-  "logchannel": "429853685179351050",
+  "logchannel": "000000000000000000",
   //channel that the tip message will reply in if Multi or Role tip is used.
-  "botspamchannels": ["429134627823812612", "429852470886268929"]
+  "botspamchannels": ["000000000000000000", "000000000000000000"]
   }
 }
