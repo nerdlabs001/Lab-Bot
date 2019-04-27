@@ -19,6 +19,7 @@ Features:
     - SparksPay (SPK)
     - Flapxcoin (FLAPX)
     - Elitecoin (1337)
+    - SafeSeafood (SSF)
 
 
 ## Create a Bot
