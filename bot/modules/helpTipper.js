@@ -6,6 +6,8 @@ let lbryFee = config.get('lbc').paytxfee;
 let phaseFee = config.get('phase').paytxfee;
 let ufoFee = config.get('ufo').paytxfee;
 let phoenixFee = config.get('pxc').paytxfee;
+let safeseafoodFee = config.get('ssf').paytxfee;
+let eliteFee = config.get('1337').paytxfee;
 let flapxFee = config.get('flapx').paytxfee;
 let featherFee = config.get('ftc').paytxfee;
 let verticalFee = config.get('vtl').paytxfee;
@@ -23,6 +25,7 @@ exports.tiphelp = {
       '__**:bank: Coins :bank:**__\n' +
       '  **Ravencoin (RVN) Tipper**\n    Transaction Fees: **' + ravenFee + '**\n' +
       '  **Dogecoin (DOGE) Tipper**\n    Transaction Fees: **' + dogeFee + '**\n' +
+      '  **Elitecoin (1337) Tipper**\n    Transaction Fees: **' + eliteFee + '**\n' +
       '  **LBRY Credit (LBC) Tipper**\n    Transaction Fees: **' + lbryFee + '**\n' +
       '  **Phase (PHASE) Tipper**\n    Transaction Fees: **' + phaseFee + '**\n' +
       '  **Uniform Fiscal Object (UFO) Tipper**\n    Transaction Fees: **' + ufoFee + '**\n' +
@@ -32,6 +35,8 @@ exports.tiphelp = {
       '  **Vertical (VTL) Tipper**\n    Transaction Fees: **' + verticalFee + '**\n' +
       '  **Neblio (NEBL) Tipper**\n    Transaction Fees: **' + neblioFee + '**\n' +
       '  **Xuez (XUEZ) Tipper**\n    Transaction Fees: **' + xuezFee + '**\n' +
+      '  **Flapxcoin (FLAPX) Tipper**\n    Transaction Fees: **' + flapxFee + '**\n' +
+      '  **SafeSeafood (SSF) Tipper**\n    Transaction Fees: **' + ssf + '**\n' +
       '  **SparksPay (SPK) Tipper**\n    Transaction Fees: **' + spkFee + '**\n' +      
       '  **Peercoin (PPC) Tipper**\n    Transaction Fees: **' + ppcFee + '**\n' +         
       '__**Commands**__\n' +
